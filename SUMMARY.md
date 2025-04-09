@@ -8,3 +8,5 @@
 * [Цель курса](course/cel-kursa.md)
 * [Веселье и польза](course/vesele-i-polza.md)
 * [Виды курсов](course/vidy-kursov.md)
+* [Структура](course/course-structure.md)
+* [Каскадность](course/cascade.md)
