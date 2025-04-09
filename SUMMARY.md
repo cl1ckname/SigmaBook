@@ -10,3 +10,5 @@
 * [Виды курсов](course/vidy-kursov.md)
 * [Структура](course/course-structure.md)
 * [Каскадность](course/cascade.md)
+* [Роль преподавателя](course/teacher-role.md)
+* [Субординация](course/subordination.md)
