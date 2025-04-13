@@ -2,6 +2,7 @@
 
 * [Курс преподавателя](README.md)
 * [Оглавление](oglavlenie.md)
+* [Редактура и помощь](redaktura-i-pomosh.md)
 
 ## 🧙‍♀️ Как построить хороший курс? <a href="#course" id="course"></a>
 
@@ -25,3 +26,4 @@
 * [Способность и вовлеченность](students/sposobnost-i-vovlechennost.md)
 * [Молчуны и говоруны](students/molchuny-i-govoruny.md)
 * [Тимбилдинг](students/timbilding.md)
+* [Дисциплина](students/disciplina.md)
