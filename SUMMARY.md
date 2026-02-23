@@ -9,6 +9,7 @@
 * [С чего начинается курс](course/cel-kursa.md)
 * [Веселье и польза](course/vesele-i-polza.md)
 * [Виды курсов](course/vidy-kursov.md)
+* [Презентация курса](course/prezentaciya-kursa.md)
 * [Структура](course/course-structure.md)
 * [Каскадность](course/cascade.md)
 
