@@ -28,3 +28,7 @@
 * [Молчуны и говоруны](students/molchuny-i-govoruny.md)
 * [Тимбилдинг](students/timbilding.md)
 * [Дисциплина](students/disciplina.md)
+
+***
+
+* [Медицинская помощь](medicinskaya-pomosh.md)
